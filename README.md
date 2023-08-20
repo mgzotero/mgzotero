@@ -6,7 +6,7 @@ Hey there! 👋 I'm Mario González Otero, a 22-year-old industrial engineering 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariogonzalezo)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%23ffffff.svg?logo=kaggle&logoColor=7ed9ff)](https://www.kaggle.com/mgzotero)
 [![DataCamp](https://img.shields.io/badge/DataCamp-%2337ff62.svg?logo=datacamp&logoColor=black)](https://www.datacamp.com/portfolio/mgzotero)
-[![Replit](https://img.shields.io/badge/Replit-%23181818.svg?logo=replit&logoColor=f26207f26207)](https://replit.com/@mariogonzalezo) 
+[![Replit](https://img.shields.io/badge/Replit-%23181818.svg?logo=replit&logoColor=f26207f26207)](https://replit.com/@mariogonzalezo)
 
 
 # 💻 Tech Stack
@@ -17,9 +17,8 @@ Hey there! 👋 I'm Mario González Otero, a 22-year-old industrial engineering 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Tidyverse](https://img.shields.io/badge/tidyverse-%231a162d.svg?style=for-the-badge&logo=tidyverse&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
