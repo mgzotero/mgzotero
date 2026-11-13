@@ -1,5 +1,5 @@
 # 👤 About Me
-Hey there! 👋 I'm Mario González Otero, a 23-year-old Industrial Engineering & Data Science MSc student at the University of Chile. Welcome to my GitHub corner!
+Hey there! 👋 I'm Mario González Otero, a 25-year-old Industrial Engineer & MSc Data Science (University of Chile). Welcome to my GitHub corner!
 
 
 # 🌐 Socials
