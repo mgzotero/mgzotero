@@ -4,9 +4,9 @@ Hey there! 👋 I'm Mario González Otero, a 25-year-old Industrial Engineer & M
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariogonzalezotero)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%23ffffff.svg?logo=kaggle&logoColor=7ed9ff)](https://www.kaggle.com/mgzotero)
-[![HackerRank](https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge)](https://www.hackerrank.com/profile/mgonzalezotero)
-[![freeCodeCamp](https://fontawesome.com/v4.7/icon/free-code-camp)](https://www.freecodecamp.org/mgzotero)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/mgzotero)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mgonzalezotero)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-%230A0A23.svg?logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/mgzotero)
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
